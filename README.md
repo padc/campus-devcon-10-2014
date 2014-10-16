@@ -34,3 +34,7 @@ $ grunt deploy
 ```
 
 Done.
+
+## Web access
+
+You can view the finished product in http://padc.github.io/campus-devcon-10-2014
