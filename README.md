@@ -24,3 +24,13 @@ $ yo reveal:slide "Slide title" --markdown
 ```
 
 Slides are written in markdown because ezmode.
+
+## Deploying
+
+You can deploy to github pages if you have commit access to this repository:
+
+```shell
+$ grunt deploy
+```
+
+Done.
