@@ -1,6 +1,6 @@
 # Campus DevCon 10-2014
 
-This are @avendael's slides for Campus DevCon 2014, generated with `yo reveal`.
+These are @avendael's slides for Campus DevCon 2014, generated with `yo reveal`.
 
 ## Building
 
