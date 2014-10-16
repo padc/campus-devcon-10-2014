@@ -1,0 +1,26 @@
+# Campus DevCon 10-2014
+
+This are @avendael's slides for Campus DevCon 2014, generated with `yo reveal`.
+
+## Building
+
+Optional:
+
+* Install yeoman globally: `npm install -g yeoman`
+* Install the reveal generator globally: `npm install -g generator-reveal`
+
+Mandatory:
+
+* Install grunt-cli globally: `npm install -g grunt-cli`
+
+Just run `grunt` in the root project directory.
+
+## Slides
+
+If you installed yeoman and the reveal generator, you can add slides by doing
+
+```zsh
+$ yo reveal:slide "Slide title" --markdown
+```
+
+Slides are written in markdown because ezmode.
